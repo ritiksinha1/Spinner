@@ -1,6 +1,6 @@
 # Spinner
 
-This game was created using the Godot game engine and GDScript.
+This game was created using the Godot game engine and GDScript (similar to Python).
 
 ![](images/SpinnerImage2.jpg)
 
