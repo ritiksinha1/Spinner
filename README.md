@@ -2,7 +2,7 @@
 
 This game was created using the Godot game engine and GDScript.
 
-![](images/SpinnerImage2)
+![](images/SpinnerImage2.png)
 
 ### How to play
 
@@ -10,4 +10,4 @@ To play, first download SpinnerGame.zip and extract all files to a folder. Then,
 
 The objective of the game is to accumulate as high of a score as you can by matching the color of the incoming balls to the corresponding color on the spinner. To do so, rotate the spinner using your arrow keys. High scores are saved locally.
 
-![](images/SpinnerImage1)
+![](images/SpinnerImage1.png)
