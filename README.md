@@ -2,7 +2,7 @@
 
 This game was created using the Godot game engine and GDScript.
 
-![](images/SpinnerImage2.png)
+![](images/SpinnerImage2.jpg)
 
 ### How to play
 
